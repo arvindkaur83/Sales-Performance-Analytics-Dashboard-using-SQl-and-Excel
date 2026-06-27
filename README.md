@@ -1,5 +1,5 @@
-# Sales-Performance-Analytics-Dashboard-using-SQl-and-Excel
-Summary: Built a SQL Server and Excel dashboard to analyze business data. Used SQL for data extraction and cleaning, and Excel Pivot Tables and slicers for interactive reporting. Identified key KPIs, trends, and peak activity periods to support data-driven decision-making.
+# Pizza Sales Analytics Dashboard (SQL Server & Excel)
+Built an end-to-end pizza sales analytics dashboard using SQL Server and Excel to analyze transactional data and uncover business insights. Utilized SQL for data extraction, cleaning, and aggregation, and Excel Pivot Tables and slicers to create interactive visual reports. Identified key performance indicators (KPIs), sales trends, top-performing pizzas, and peak ordering periods to support data-driven decision-making and improve understanding of customer demand patterns.
 
 📊 Project Overview
 
