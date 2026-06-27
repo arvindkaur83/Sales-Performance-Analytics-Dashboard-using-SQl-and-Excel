@@ -2,6 +2,7 @@
 Summary: Built a SQL Server and Excel dashboard to analyze business data. Used SQL for data extraction and cleaning, and Excel Pivot Tables and slicers for interactive reporting. Identified key KPIs, trends, and peak activity periods to support data-driven decision-making.
 
 SQL Server + Excel Analytics Dashboard
+
 📊 Project Overview
 
 This project presents a complete data analytics workflow using SQL Server and Excel to convert raw business data into meaningful insights. It demonstrates how structured querying and spreadsheet-based analysis can be combined to build an interactive reporting system for decision-making.
