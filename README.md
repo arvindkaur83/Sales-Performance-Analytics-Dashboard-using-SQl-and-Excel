@@ -21,6 +21,7 @@ Microsoft Excel
 Pivot Tables
 Slicers
 Charts & Visual Dashboards
+
 🔄 Project Workflow
 Connected to SQL Server and extracted relevant datasets
 Performed data preparation and transformation using SQL
@@ -28,17 +29,20 @@ Imported cleaned data into Excel for analysis
 Created Pivot Tables to summarize key metrics
 Designed an interactive dashboard using charts and slicers
 Derived insights from data patterns and visual trends
+
 📈 Dashboard Highlights
 Interactive KPI summary for quick business overview
 Time-based analysis of trends and variations
 Identification of high-activity (peak) periods
 Category-wise breakdown of performance
 Dynamic filtering for flexible data exploration
+
 🔍 Key Insights
 Detected periods with the highest business activity
 Identified fluctuations in performance across different segments
 Highlighted top-performing categories and contributors
 Provided a clear visual understanding of overall trends
+
 📷 Dashboard Preview
 
 (Add your screenshots here)
