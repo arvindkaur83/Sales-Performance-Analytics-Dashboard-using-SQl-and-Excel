@@ -48,7 +48,9 @@ Provided a clear visual understanding of overall trends
 (Add your screenshots here)
 
 ![Dashboard](screenshots/dashboard.png)
+
 ![Pivot View](screenshots/pivot.png)
+
 💡 Skills Demonstrated
 Writing SQL queries for data extraction and analysis
 Data cleaning and transformation techniques
