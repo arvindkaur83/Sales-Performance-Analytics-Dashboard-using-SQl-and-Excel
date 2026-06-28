@@ -113,7 +113,6 @@ This project demonstrates how sales transaction data can be transformed into act
 ### Pivot Table Insights
 ![Pivot Analysis](pivot.png)
 
-👤 **Author**
-
+👤 **Author**<br>
 Data Analyst | Data Engineer | Machine Learning Enthusiast
 <br>Skilled in SQL, Data Analytics, and Dashboard Development
