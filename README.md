@@ -116,4 +116,5 @@ This project demonstrates how sales transaction data can be transformed into act
 👤 **Author**
 
 Data Analyst | Data Engineer | Machine Learning Enthusiast
+
 Skilled in SQL, Data Analytics, and Dashboard Development
