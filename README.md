@@ -43,11 +43,11 @@ Total Price and Total Orders
 
 - *Data Collection:* Imported pizza sales transaction data containing order details, product information, pricing, category, size, and time-based attributes into SQL Server for analysis.
 
-_2. Database Setup:_ Created and configured a SQL database to store the dataset and ensure structured access for querying and validation.
+- *Database Setup:* Created and configured a SQL database to store the dataset and ensure structured access for querying and validation.
 
-_3. Data Preparation & Validation:_ Reviewed and organized the dataset by checking field consistency and preparing data for analysis. SQL queries were used to validate calculations and ensure reliable reporting outputs.
+- *Data Preparation & Validation:* Reviewed and organized the dataset by checking field consistency and preparing data for analysis. SQL queries were used to validate calculations and ensure reliable reporting outputs.
 
-_4. SQL-Based Analysis:_ Performed analytical queries to generate business metrics and solve reporting requirements. Aggregation, filtering, grouping, and time-based analysis techniques were applied to extract insights.
+- *SQL-Based Analysis:* Performed analytical queries to generate business metrics and solve reporting requirements. Aggregation, filtering, grouping, and time-based analysis techniques were applied to extract insights.
 
    Key analysis included:
 
@@ -59,13 +59,13 @@ _4. SQL-Based Analysis:_ Performed analytical queries to generate business metri
    - Top 5 best-selling pizzas
    - Bottom 5 lowest-selling pizzas
 
-_5. Data Integration with Excel:_ Connected Excel to SQL Server and imported the processed dataset for interactive reporting and visualization.
+- *Data Integration with Excel:* Connected Excel to SQL Server and imported the processed dataset for interactive reporting and visualization.
 
-_6. Dashboard Development: _ Built an interactive dashboard in Excel using Pivot Tables, charts, and slicers to enable dynamic filtering and exploration of sales performance.
+- *Dashboard Development:* Built an interactive dashboard in Excel using Pivot Tables, charts, and slicers to enable dynamic filtering and exploration of sales performance.
 
-_7. Insight Generation: _ Interpreted results to identify ordering patterns, customer preferences, product performance, and peak demand periods to support business decision-making.
+- *Insight Generation:* Interpreted results to identify ordering patterns, customer preferences, product performance, and peak demand periods to support business decision-making.
 
-_8. Reporting & Documentation:_ Documented the analysis workflow and dashboard outputs to create a reusable portfolio project demonstrating SQL and business analytics skills.
+- *Reporting & Documentation:* Documented the analysis workflow and dashboard outputs to create a reusable portfolio project demonstrating SQL and business analytics skills.
 
 📈 **Key Performance Indicators (KPIs)**
 
