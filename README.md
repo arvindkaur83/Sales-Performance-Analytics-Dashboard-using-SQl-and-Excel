@@ -49,15 +49,15 @@ Total Price and Total Orders
 
 4. SQL-Based Analysis: Performed analytical queries to generate business metrics and solve reporting requirements. Aggregation, filtering, grouping, and time-based analysis techniques were applied to extract insights.
 
-Key analysis included:
+   Key analysis included:
 
-Daily trend for total orders
-Hourly trend for order activity
-Percentage of sales by pizza category
-Percentage of sales by pizza size
-Total pizzas sold by category
-Top 5 best-selling pizzas
-Bottom 5 lowest-selling pizzas
+   - Daily trend for total orders
+   - Hourly trend for order activity
+   - Percentage of sales by pizza category
+   - Percentage of sales by pizza size
+   - Total pizzas sold by category
+   - Top 5 best-selling pizzas
+   - Bottom 5 lowest-selling pizzas
 
 5. Data Integration with Excel: Connected Excel to SQL Server and imported the processed dataset for interactive reporting and visualization.
 
