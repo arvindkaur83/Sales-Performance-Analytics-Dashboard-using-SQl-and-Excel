@@ -41,13 +41,13 @@ Total Price and Total Orders
 
 🔄 Project Workflow
 
-1. Data Collection: Imported pizza sales transaction data containing order details, product information, pricing, category, size, and time-based attributes into SQL Server for analysis.
+_1. Data Collection: _Imported pizza sales transaction data containing order details, product information, pricing, category, size, and time-based attributes into SQL Server for analysis.
 
-2. Database Setup: Created and configured a SQL database to store the dataset and ensure structured access for querying and validation.
+_2. Database Setup:_ Created and configured a SQL database to store the dataset and ensure structured access for querying and validation.
 
-3. Data Preparation & Validation: Reviewed and organized the dataset by checking field consistency and preparing data for analysis. SQL queries were used to validate calculations and ensure reliable reporting outputs.
+_3. Data Preparation & Validation:_ Reviewed and organized the dataset by checking field consistency and preparing data for analysis. SQL queries were used to validate calculations and ensure reliable reporting outputs.
 
-4. SQL-Based Analysis: Performed analytical queries to generate business metrics and solve reporting requirements. Aggregation, filtering, grouping, and time-based analysis techniques were applied to extract insights.
+_4. SQL-Based Analysis:_ Performed analytical queries to generate business metrics and solve reporting requirements. Aggregation, filtering, grouping, and time-based analysis techniques were applied to extract insights.
 
    Key analysis included:
 
@@ -59,13 +59,13 @@ Total Price and Total Orders
    - Top 5 best-selling pizzas
    - Bottom 5 lowest-selling pizzas
 
-5. Data Integration with Excel: Connected Excel to SQL Server and imported the processed dataset for interactive reporting and visualization.
+_5. Data Integration with Excel:_ Connected Excel to SQL Server and imported the processed dataset for interactive reporting and visualization.
 
-6. Dashboard Development: Built an interactive dashboard in Excel using Pivot Tables, charts, and slicers to enable dynamic filtering and exploration of sales performance.
+_6. Dashboard Development: _ Built an interactive dashboard in Excel using Pivot Tables, charts, and slicers to enable dynamic filtering and exploration of sales performance.
 
-7. Insight Generation: Interpreted results to identify ordering patterns, customer preferences, product performance, and peak demand periods to support business decision-making.
+_7. Insight Generation: _ Interpreted results to identify ordering patterns, customer preferences, product performance, and peak demand periods to support business decision-making.
 
-8. Reporting & Documentation: Documented the analysis workflow and dashboard outputs to create a reusable portfolio project demonstrating SQL and business analytics skills.
+_8. Reporting & Documentation:_ Documented the analysis workflow and dashboard outputs to create a reusable portfolio project demonstrating SQL and business analytics skills.
 
 📈 **Key Performance Indicators (KPIs)**
 
