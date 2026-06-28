@@ -20,13 +20,13 @@ Businesses need visibility into customer demand and sales performance to improve
 
 🛠 **Tools & Technologies**
 
-SQL Server (Data extraction & transformation)
-SQL (Joins, Aggregations, Group By, Case Statements, Filtering)
-Microsoft Excel
-Pivot Tables
-Slicers
-Charts & Interactive Dashboards
-Data Cleaning & Preprocessing
+- SQL Server (Data extraction & transformation)
+- SQL (Joins, Aggregations, Group By, Case Statements, Filtering)
+- Microsoft Excel
+- Pivot Tables
+- Slicers
+- Charts & Interactive Dashboards
+- Data Cleaning & Preprocessing
 
 📂 **Dataset Features**
 
