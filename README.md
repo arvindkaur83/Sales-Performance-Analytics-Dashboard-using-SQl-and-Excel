@@ -40,6 +40,7 @@ Quantity and Unit Price
 Total Price and Total Orders
 
 🔄 **Project Workflow**
+
 Connected SQL Server database and extracted sales data
 Performed data cleaning and transformation using SQL queries
 Aggregated key metrics such as revenue, orders, and quantity sold
