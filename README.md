@@ -104,11 +104,15 @@ This project demonstrates how sales transaction data can be transformed into act
 
 📷 **Dashboard Preview**
 
-(Add screenshots here)
-
+### Sales Overview Dashboard
 ![Dashboard](screenshots/dashboard.png)
+
+### KPI Analysis
 ![KPIs](screenshots/kpi.png)
+
+### Pivot Table Insights
 ![Pivot Analysis](screenshots/pivot.png)
+
 👤 **Author**
 
 Data Analyst | Data Engineer | Machine Learning Enthusiast
