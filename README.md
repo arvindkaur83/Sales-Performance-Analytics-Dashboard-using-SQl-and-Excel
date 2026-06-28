@@ -111,7 +111,7 @@ This project demonstrates how sales transaction data can be transformed into act
 ![KPIs](screenshots/kpi.png)
 
 ### Pivot Table Insights
-![Pivot Analysis](screenshots/pivot.png)
+![Pivot Analysis](pivot.png)
 
 👤 **Author**
 
