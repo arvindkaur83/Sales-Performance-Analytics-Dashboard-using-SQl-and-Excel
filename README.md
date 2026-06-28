@@ -32,12 +32,12 @@ Data Cleaning & Preprocessing
 
 The dataset contains detailed pizza order transactions, including:
 
-Order ID and Pizza ID
-Order Date, Day, and Time
-Pizza Name and Category
-Pizza Size and Ingredients
-Quantity and Unit Price
-Total Price and Total Orders
+- Order ID and Pizza ID
+- Order Date, Day, and Time
+- Pizza Name and Category
+- Pizza Size and Ingredients
+- Quantity and Unit Price
+- Total Price and Total Orders
 
 🔄 Project Workflow
 
