@@ -65,17 +65,15 @@ The dataset contains detailed pizza order transactions, including:
 
 - *Insight Generation:* Interpreted results to identify ordering patterns, customer preferences, product performance, and peak demand periods to support business decision-making.
 
-- *Reporting & Documentation:* Documented the analysis workflow and dashboard outputs to create a reusable portfolio project demonstrating SQL and business analytics skills.
-
 📈 **Key Performance Indicators (KPIs)**
 
-Daily Trend for Total Orders
-Hourly Trend for Order Activity
-Percentage of Sales by Pizza Category
-Percentage of Sales by Pizza Size
-Total Pizzas Sold by Category
-Top 5 Best-Selling Pizzas
-Bottom 5 Lowest-Selling Pizzas
+- Daily Trend for Total Orders
+- Hourly Trend for Order Activity
+- Percentage of Sales by Pizza Category
+- Percentage of Sales by Pizza Size
+- Total Pizzas Sold by Category
+- Top 5 Best-Selling Pizzas
+- Bottom 5 Lowest-Selling Pizzas
 
 🔍 **Key Insights**
 
