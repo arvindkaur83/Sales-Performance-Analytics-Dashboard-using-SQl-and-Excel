@@ -38,16 +38,47 @@ Pizza Name and Category
 Pizza Size and Ingredients
 Quantity and Unit Price
 Total Price and Total Orders
+🔄 Project Workflow
+1. Data Collection
 
-🔄 **Project Workflow**
+Imported pizza sales transaction data containing order details, product information, pricing, category, size, and time-based attributes into SQL Server for analysis.
 
-Connected SQL Server database and extracted sales data
-Performed data cleaning and transformation using SQL queries
-Aggregated key metrics such as revenue, orders, and quantity sold
-Imported structured data into Excel for analysis
-Built Pivot Tables to summarize KPIs
-Designed interactive dashboard using slicers and charts
-Generated insights on sales trends and customer behavior
+2. Database Setup
+
+Created and configured a SQL database to store the dataset and ensure structured access for querying and validation.
+
+3. Data Preparation & Validation
+
+Reviewed and organized the dataset by checking field consistency and preparing data for analysis. SQL queries were used to validate calculations and ensure reliable reporting outputs.
+
+4. SQL-Based Analysis
+
+Performed analytical queries to generate business metrics and solve reporting requirements. Aggregation, filtering, grouping, and time-based analysis techniques were applied to extract insights.
+
+Key analysis included:
+
+Daily trend for total orders
+Hourly trend for order activity
+Percentage of sales by pizza category
+Percentage of sales by pizza size
+Total pizzas sold by category
+Top 5 best-selling pizzas
+Bottom 5 lowest-selling pizzas
+5. Data Integration with Excel
+
+Connected Excel to SQL Server and imported the processed dataset for interactive reporting and visualization.
+
+6. Dashboard Development
+
+Built an interactive dashboard in Excel using Pivot Tables, charts, and slicers to enable dynamic filtering and exploration of sales performance.
+
+7. Insight Generation
+
+Interpreted results to identify ordering patterns, customer preferences, product performance, and peak demand periods to support business decision-making.
+
+8. Reporting & Documentation
+
+Documented the analysis workflow and dashboard outputs to create a reusable portfolio project demonstrating SQL and business analytics skills.
 
 📈 **Key Performance Indicators (KPIs)**
 
