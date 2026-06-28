@@ -105,7 +105,7 @@ This project demonstrates how sales transaction data can be transformed into act
 📷 **Dashboard Preview**
 
 ### Sales Overview Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### KPI Analysis
 ![KPIs](screenshots/kpi.png)
