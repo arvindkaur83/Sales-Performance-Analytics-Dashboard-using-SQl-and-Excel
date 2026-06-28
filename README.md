@@ -1,5 +1,7 @@
 # Pizza Sales Analytics Dashboard (SQL Server & Excel)
-Built an end-to-end pizza sales analytics dashboard using SQL Server and Excel to analyze transactional data and uncover business insights. Utilized SQL for data extraction, cleaning, and aggregation, and Excel Pivot Tables and slicers to create interactive visual reports. Identified key performance indicators (KPIs), sales trends, top-performing pizzas, and peak ordering periods to support data-driven decision-making and improve understanding of customer demand patterns.
+Developed an end-to-end pizza sales analytics dashboard using SQL Server and Excel to analyze transactional sales data and generate business insights. SQL was used for data extraction, cleaning, and aggregation, while Excel Pivot Tables and slicers enabled interactive reporting and exploration.
+
+The dashboard was designed to track key performance indicators including daily order trends, hourly ordering patterns, percentage contribution of sales by pizza category and size, total pizzas sold by category, and identification of top 5 best-selling and bottom 5 lowest-performing pizzas. The analysis highlights customer purchasing behavior, demand distribution, and sales performance to support data-informed business decisions.
 
 📊 Project Overview
 
@@ -9,16 +11,15 @@ The objective is to evaluate sales trends, customer ordering behavior, product p
 
 🎯 Business Problem Statement
 
-Businesses need a clear understanding of:
+Businesses need visibility into customer demand and sales performance to improve operational planning and product strategy. This project analyzes pizza sales transactions to answer key business questions such as:
 
-Which products generate the highest revenue
-When peak demand occurs (days and hours)
-Which pizza categories and sizes perform best
-How customer ordering behavior changes over time
-
-This project addresses these questions by building an analytical reporting system using SQL and Excel.
+Which days receive the highest number of orders?
+During which hours does order activity peak?
+Which pizza categories and sizes contribute the most to sales?
+Which pizzas are the strongest and weakest performers?
 
 🛠 Tools & Technologies
+
 SQL Server (Data extraction & transformation)
 SQL (Joins, Aggregations, Group By, Case Statements, Filtering)
 Microsoft Excel
@@ -48,26 +49,29 @@ Designed interactive dashboard using slicers and charts
 Generated insights on sales trends and customer behavior
 
 📈 Key Performance Indicators (KPIs)
-Total Revenue generated
-Total number of orders
-Total quantity of pizzas sold
-Average order value
-Top-selling pizzas by revenue and quantity
-Sales distribution by category and size
+
+Daily Trend for Total Orders
+Hourly Trend for Order Activity
+Percentage of Sales by Pizza Category
+Percentage of Sales by Pizza Size
+Total Pizzas Sold by Category
+Top 5 Best-Selling Pizzas
+Bottom 5 Lowest-Selling Pizzas
 
 🔍 Key Insights
-Identified peak order days and busiest time periods
-Determined best-performing pizza categories and sizes
-Highlighted most frequently ordered pizza types
-Analyzed revenue contribution across different segments
-Revealed customer ordering patterns over time
+
+Evaluated order distribution across different days to identify high-demand periods
+Examined hourly ordering behavior to determine peak operating hours
+Measured sales contribution across pizza categories and sizes
+Identified top-performing pizzas based on customer demand
+Determined lower-performing pizzas to support product evaluation
 
 📊 Dashboard Highlights
-Interactive KPI summary dashboard
-Time-based analysis (daily and hourly trends)
-Category-wise and size-wise performance breakdown
-Dynamic filtering using slicers
-Clear visualization of sales trends and demand patterns
+Interactive dashboard built using Excel Pivot Tables and slicers
+Daily and hourly sales trend analysis
+Category-wise and size-wise sales contribution analysis
+Ranking of top and bottom performing pizzas
+Dynamic filtering for flexible business exploration
 
 🧠 Skills Demonstrated
 Advanced SQL querying and data manipulation
@@ -79,7 +83,7 @@ Translating raw data into business insights
 
 🚀 Business Impact
 
-This project demonstrates how raw transactional data can be converted into a structured analytics system that helps businesses optimize sales performance, understand customer demand patterns, and improve operational decision-making.
+This project demonstrates how sales transaction data can be transformed into actionable business insights to understand customer purchasing patterns, monitor product performance, and support business decisions using SQL and Excel.
 
 📷 Dashboard Preview
 
