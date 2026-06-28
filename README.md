@@ -1,9 +1,9 @@
-# Pizza Sales Analytics Dashboard (SQL Server & Excel)
+## Pizza Sales Analytics Dashboard (SQL Server & Excel)
 Developed an end-to-end pizza sales analytics dashboard using SQL Server and Excel to analyze transactional sales data and generate business insights. SQL was used for data extraction, cleaning, and aggregation, while Excel Pivot Tables and slicers enabled interactive reporting and exploration.
 
 The dashboard was designed to track key performance indicators including daily order trends, hourly ordering patterns, percentage contribution of sales by pizza category and size, total pizzas sold by category, and identification of top 5 best-selling and bottom 5 lowest-performing pizzas. The analysis highlights customer purchasing behavior, demand distribution, and sales performance to support data-informed business decisions.
 
-📊 Project Overview
+📊 #Project Overview
 
 This project is an end-to-end data analytics solution designed to analyze pizza sales performance using SQL Server and Excel. It focuses on transforming raw transactional data into actionable business insights through structured querying, data modeling, and interactive dashboard creation.
 
