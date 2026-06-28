@@ -13,13 +13,10 @@ The objective is to evaluate sales trends, customer ordering behavior, product p
 
 Businesses need visibility into customer demand and sales performance to improve operational planning and product strategy. This project analyzes pizza sales transactions to answer key business questions such as:
 
-Which days receive the highest number of orders?
-
-During which hours does order activity peak?
-
-Which pizza categories and sizes contribute the most to sales?
-
-Which pizzas are the strongest and weakest performers?
+- Which days receive the highest number of orders?
+- During which hours does order activity peak?
+- Which pizza categories and sizes contribute the most to sales?
+- Which pizzas are the strongest and weakest performers?
 
 🛠 Tools & Technologies
 
