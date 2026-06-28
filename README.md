@@ -41,7 +41,7 @@ Total Price and Total Orders
 
 🔄 Project Workflow
 
-_1. Data Collection: _Imported pizza sales transaction data containing order details, product information, pricing, category, size, and time-based attributes into SQL Server for analysis.
+- _Data Collection: _Imported pizza sales transaction data containing order details, product information, pricing, category, size, and time-based attributes into SQL Server for analysis.
 
 _2. Database Setup:_ Created and configured a SQL database to store the dataset and ensure structured access for querying and validation.
 
